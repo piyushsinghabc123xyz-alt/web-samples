@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+    padding: 0px;
+}
+.Acc{
+    display: inline;
+    color: white;
+    background-color: #0f1111;
+    margin: 0px;
+    padding-right: 200px;
+    padding-right: 200px;
+    padding-bottom: 52px;
+    padding-top: 14px;
+    
+}
+#amazon{
+    display: inline;
+    color: #f08804;
+    background-color: #0f1111;
+    font-size: 25px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    padding-top: 5px;
+}
+form{
+    display: inline;
+    background-color: #0f1111;
+}
+button{
+    background-color: #f08804;
+    display: inline;
+    border-radius: 8px;
+}
